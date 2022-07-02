@@ -1,4 +1,4 @@
-wrapped as app using [wap2App](https://github.com/dcloudio/wap2app)
+based on [miniPaint](https://viliusle.github.io/miniPaint/), wrapped as app using [wap2App](https://github.com/dcloudio/wap2app)
 
 # miniPaint
 
