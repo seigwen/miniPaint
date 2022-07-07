@@ -1,5 +1,4 @@
-based on [miniPaint](https://viliusle.github.io/miniPaint/), wrapped as app using [wap2App](https://github.com/dcloudio/wap2app)
-
+based on [miniPaint](https://viliusle.github.io/miniPaint/).
 # miniPaint
 
 Online image editor lets you create, edit images using HTML5 technologies.
